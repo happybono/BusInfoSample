@@ -2,6 +2,13 @@
 ## Overview
 This project is designed to display bus information, including arrival times, route names, destination names, congestion levels, and error messages. The project uses a list of `BusInfo` objects to populate various labels on the user interface. The information is categorized and displayed based on urgency and availability of arrival times.
 
+<div align="center">
+<img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/happybono/BusInfoSample"> 
+<img alt="GitHub Repo Size" src="https://img.shields.io/github/repo-size/happybono/BusInfoSample">
+<img alt="GitHub Repo Languages" src="https://img.shields.io/github/languages/count/happybono/BusInfoSample">
+<img alt="GitHub Top Languages" src="https://img.shields.io/github/languages/top/HappyBono/BusInfoSample">
+</div>
+
 ## Features
 - Retrieve and display real-time bus arrival information.
 - Display bus route names, destinations, and arrival times.
