@@ -2,6 +2,22 @@
 ## Overview
 This project is designed to display bus information, including arrival times, route names, destination names, congestion levels, and error messages. The project uses a list of `BusInfo` objects to populate various labels on the user interface. The information is categorized and displayed based on urgency and availability of arrival times.
 
+## Features
+- Retrieve and display real-time bus arrival information.
+- Display bus route names, destinations, and arrival times.
+- Show remaining stops and congestion levels.
+- Indicate low-floor buses for accessibility.
+- Handle error messages and provide updates.
+
+## Technologies Used
+- C#
+- .NET Framework
+- Windows Forms
+
+## Usage
+### MainForm
+The `MainForm` class is the main user interface that displays real-time bus arrival information. It consists of various labels and panels to show bus routes, arrival times, remaining stops, congestion levels, and error messages.
+
 ## Functions
 ### `DisplayBusInfo(List<BusInfo> busInfoList)`
 This function displays bus information on the user interface. It categorizes the bus information into urgent and non-urgent lists and updates various labels based on the available data.
