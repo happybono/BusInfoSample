@@ -1,5 +1,4 @@
 # BusInfoSample
-## Overview
 This project is designed to display bus information, including arrival times, route names, destination names, congestion levels, and error messages. The project uses a list of `BusInfo` objects to populate various labels on the user interface. The information is categorized and displayed based on urgency and availability of arrival times.
 
 <div align="center">
